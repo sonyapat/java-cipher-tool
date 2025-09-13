@@ -7,7 +7,9 @@ Command-line Java application implementing multiple encryption schemes.
 
 ## 🛠️ Tech Stack
 **Language:** Java
+
 **Interface** Command-Line Interface (CLI)
+
 **Concepts** Cryptography, Algorithms
 
 ## ✨ Features
