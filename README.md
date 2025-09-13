@@ -8,9 +8,9 @@ Command-line Java application implementing multiple encryption schemes.
 ## 🛠️ Tech Stack
 **Language:** Java
 
-**Interface** Command-Line Interface (CLI)
+**Interface:** Command-Line Interface (CLI)
 
-**Concepts** Cryptography, Algorithms
+**Concepts:** Cryptography, Algorithms
 
 ## ✨ Features
 - Supports three encryption schemes: base-n, Caesar shift, and block rotation
