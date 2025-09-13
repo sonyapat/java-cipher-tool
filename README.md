@@ -13,12 +13,10 @@ Command-line Java application implementing multiple encryption schemes.
 **Concepts:** Cryptography, Algorithms
 
 ## ✨ Features
-- Supports three encryption schemes: base-n, Caesar shift, and block rotation
-- Encoding and decoding functionality for each scheme
-- Tracks scheme usage and displays statistics
-- Validates user input to ensure robust operation
+- Supports encoding and decoding for 3 encryption schemes: base-n, Caesar shift, and block rotation
+- Tracks scheme usage and validates user input
 - Interactive CLI with persistent previous input handling
 
 ## 🔮 Future Improvements
 - Add support for file input/output for bulk encryption/decryption
-- Implement additional encryption schemes (e.g., Vigenère cipher)
+- Implement additional encryption schemes
