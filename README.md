@@ -1,5 +1,5 @@
 # java-cipher-tool
-Java command-line tool for encoding and decoding with multiple encryption schemes.
+Java command-line tool for encrypting and decrypting text for multiple schemes.
 ---
 
 ## 🎥 Demo
